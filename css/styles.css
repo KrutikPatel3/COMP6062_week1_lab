@@ -1,0 +1,31 @@
+body{
+    background-color: #000;
+    color: white;
+}
+@media only screen and (min-width: 650px) {
+    body{
+        background-color: blue;
+        color: red;        
+    }
+}
+ 
+h1{
+    text-align: center;
+    color:lime;
+    border-radius: 15%;
+}
+h2{
+    text-align: center;
+    color: yellow;
+}
+.box {
+    background-color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    padding: auto;
+}
+.box2 {
+    background-color: blueviolet;
+    text-align: justify;
+    ;
+}
